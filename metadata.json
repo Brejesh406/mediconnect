@@ -1,0 +1,6 @@
+{
+  "name": "MediConnect",
+  "description": "Complete Hospital Management System – One Patient. One Secure Health Record. Role-based portals for Patients, Doctors, and Administrators with appointment booking, clinical records, prescriptions, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
